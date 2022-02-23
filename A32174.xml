@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace &amp; commerce between the most serene and mighty prince Charles II by the grace of God, King of Great Britain, France and Ireland, defender of the faith, &amp;c. and the most illustrious lords, the Bashaw, Dey, Aga and governours of the famous city and kingdom of Algiers in Barbary concluded by Arthur Herbert, esquire, Admiral of His Majesties fleet in the Mediterranean Seas, on the tenth day of April, old stile, 1682.</title>
+            <title>Treaties, etc. Algeria, 1682 Apr. 20</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32174</idno>
+            <idno type="STC">Wing C2904</idno>
+            <idno type="STC">ESTC R18272</idno>
+            <idno type="EEBO-CITATION">11743458</idno>
+            <idno type="OCLC">ocm 11743458</idno>
+            <idno type="VID">48522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace &amp; commerce between the most serene and mighty prince Charles II by the grace of God, King of Great Britain, France and Ireland, defender of the faith, &amp;c. and the most illustrious lords, the Bashaw, Dey, Aga and governours of the famous city and kingdom of Algiers in Barbary concluded by Arthur Herbert, esquire, Admiral of His Majesties fleet in the Mediterranean Seas, on the tenth day of April, old stile, 1682.</title>
+                  <title>Treaties, etc. Algeria, 1682 Apr. 20</title>
+                  <author>England and Wales.</author>
+                  <author>Torrington, Arthur Herbert, Earl of, 1647-1716.</author>
+                  <author>Algeria. Treaties, etc. England and Wales, 1682 Apr. 20.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill deceas'd and by Henry Hills and Thomas Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Algeria --  Commerce --  Great Britain.</term>
+               <term>Great Britain --  Commerce --  Algeria.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48522:1" rendition="simple:additions"/>
+            <p>ARTICLES OF PEACE &amp; COMMERCE Between the moſt Serene and Mighty PRINCE CHARLES II.</p>
+            <p>By the Grace of God, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>AND The moſt Illuſtrious LORDS, the Baſhaw, Dey, Aga, and Governours of the Famous City and Kingdom of <hi>ALGIERS</hi> in <hi>BARBARY:</hi> Concluded by <hi>Arthur Herbert,</hi> Eſquire, Admiral of His Majeſties Fleet in the <hi>Mediterranean</hi> Seas: On the Tenth day of <hi>April,</hi> Old Stile, 1682.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48522:2"/>
+            <pb n="3" facs="tcp:48522:2"/>
+            <head>ARTICLES OF PEACE &amp; COMMERCE Between the moſt Serene and Mighty PRINCE CHARLES II.</head>
+            <head type="sub">By the Grace of God, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Chri<g ref="char:EOLhyphen"/>ſtian Faith, <hi>&amp;c.</hi> AND The moſt Illuſtrious Lords, the Baſhaw, Dey, Aga, and Governours of the Famous City and Kingdom of <hi>Algiers:</hi> Concluded by the Honourable <hi>Arthur Herbert,</hi> Admiral of His Majeſties Fleet in the <hi>Mediterranean</hi> Seas.</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>Article</hi> I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the Firſt place it is Agreed and Concluded, That from this day, and for ever for<g ref="char:EOLhyphen"/>wards, there be a true, firm and inviolable Peace be<g ref="char:EOLhyphen"/>tween the moſt Serene King of <hi>Great Britain,
+<pb n="4" facs="tcp:48522:3"/>France</hi> and <hi>Ireland,</hi> Defender of the Chriſtian Faith, <hi>&amp;c.</hi> and the moſt Illuſtrious Lords, the Baſhaw, Dey, Aga and Governours of the City and Kingdom of <hi>Algiers,</hi> and be<g ref="char:EOLhyphen"/>tween all the Dominions and Subjects of ei<g ref="char:EOLhyphen"/>ther ſide, and that the Ships or other Veſſels, and the Subjects and People of both ſides ſhall not henceforth do to each other any harm, offence, or injury either in word or deed, but ſhall treat one another with all poſſible reſpect and friendſhip.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That any of the Ships or other Veſſels be<g ref="char:EOLhyphen"/>longing to the ſaid King of <hi>Great Britain,</hi> or to any of His Majeſties Subjects, may ſafely come to the Port of <hi>Algiers,</hi> or to any other Port or Place of that Kingdom, there freely to Buy and Sell, paying the uſual Cuſtoms of 10 <hi>per Cent.</hi> as in former times, for ſuch Goods as they ſell, and the Goods they ſell not, they ſhall freely carry on Board with<g ref="char:EOLhyphen"/>out paying any Duties for the ſame; And that they ſhall freely depart from thence when<g ref="char:EOLhyphen"/>ſoever they pleaſe, without any ſtop or hin<g ref="char:EOLhyphen"/>drance
+<pb n="5" facs="tcp:48522:3"/>whatſoever. As to Contraband Mer<g ref="char:EOLhyphen"/>chandizes, as Powder, Brimſtone, Iron, Planks, and all ſorts of Timber fit for Build<g ref="char:EOLhyphen"/>ing of Ships, Ropes, Pitch, Tar, Fuſils, and other Habiliments of War, His ſaid Majeſties Subjects ſhall pay no Duty for the ſame to thoſe of <hi>Algiers.</hi>
+               </p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That all Ships and other Veſſels, as well thoſe belonging to the ſaid King of <hi>Great Britain,</hi> or to any of His Majeſties Subjects, as thoſe belonging to the Kingdom or People of <hi>Algiers,</hi> ſhall freely paſs the Seas, and Traffick without any Search, hindrance or moleſtation from each other; and that all Perſons, or Paſſengers of what Countrey ſo<g ref="char:EOLhyphen"/>ever, and all Moneys, Goods, Merchandizes and Moveables, to whatſoever People or Nation belonging, being on Board of any of the ſaid Ships or Veſſels, ſhall be whol<g ref="char:EOLhyphen"/>ly free, and ſhall not be ſtopped, taken or plundered, nor receive any harm or damage whatſoever from either party.</p>
+            </div>
+            <div n="4" type="article">
+               <pb n="6" facs="tcp:48522:4"/>
+               <head>IV.</head>
+               <p>That the <hi>Algiers</hi> Ships of War or other Veſſels meeting with any Merchants Ships or other Veſſels of His ſaid Majeſties Sub<g ref="char:EOLhyphen"/>jects, not being in any of the Seas appertain<g ref="char:EOLhyphen"/>ing to His Majeſties Dominions, may ſend on Board One ſingle Boat with Two Sitters onely, beſides the ordinary Crew of Rowers, and that no more ſhall enter any ſuch Mer<g ref="char:EOLhyphen"/>chant Ship or Veſſel without expreſs leave from the Commander thereof, but the Two Sitters alone, and that upon producing a Paſs under the Hand and Seal of the Lord High Admiral of <hi>England</hi> and <hi>Ireland,</hi> or of the Lord High Admiral of <hi>Scotland,</hi> for the ſaid Kingdoms reſpectively, or under the Hands and Seal of the Commiſſioners for Executing the Office of Lord High Admiral of any of the ſaid Kingdoms, that the ſaid Boat ſhall preſently depart, and the Mer<g ref="char:EOLhyphen"/>chant Ship or Veſſel ſhall proceed freely on her Voyage, and that although for the ſpace of Fifteen Months next enſuing after the Concluſion of this Peace, the ſaid Comman<g ref="char:EOLhyphen"/>der
+<pb n="7" facs="tcp:48522:4"/>of the Merchant Ship or Veſſel produce no ſuch Paſs, yet if the major part of the Sea<g ref="char:EOLhyphen"/>men of the ſaid Ship or Veſſel be Subjects of the ſaid King of <hi>Great Britain,</hi> the ſaid Boat ſhall immediately depart, and the ſaid Mer<g ref="char:EOLhyphen"/>chant Ship or Veſſel ſhall freely proceed on her Voyage; But that after the ſaid Fifteen Months, all Merchants Ships or Veſſels of His ſaid Majeſties Subjects ſhall be obliged to produced ſuch a Paſs as aforeſaid. And any of the Ships of War or other Veſſels of His ſaid Majeſty, meeting with any Ships or other Veſſels of <hi>Algiers,</hi> if the Commander of any ſuch <hi>Algier</hi> Ship or Veſſel ſhall pro<g ref="char:EOLhyphen"/>duce a Paſs Firmed by the Chief Governours of <hi>Algiers,</hi> and a Certificate from the <hi>Engliſh</hi> Conſul living there, or if they have no ſuch Paſs or Certificate, yet if for the ſpace of Fifteen Months next enſuing the Concluſion of this Peace, the major part of the Ships Company be <hi>Turks, Moors,</hi> or Slaves belong<g ref="char:EOLhyphen"/>ing to <hi>Algiers,</hi> then the ſaid <hi>Algier</hi> Ship or Veſſel ſhall proceed freely; But that after the ſaid Fifteen Months, all <hi>Algiers</hi> Ships or Veſſels ſhall be obliged to produce ſuch a Paſs and Certificate as aforeſaid.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="8" facs="tcp:48522:5"/>
+               <head>V.</head>
+               <p>That no Commander or other Perſon or any Ship or Veſſel of <hi>Algiers</hi> ſhall take out of any Ship or Veſſel of His ſaid Majeſties Sub<g ref="char:EOLhyphen"/>jects, any perſon or perſons whatſoever, to carry them any where to be Examined, or upon any other pretence; nor ſhall they uſe any Torture or Violence to any perſon of what Nation or Quality ſoever, being on Board any Ship or Veſſel of His Majeſties Subjects, upon any pretence whatſoever.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That no Shipwrack belonging to the ſaid King of <hi>Great Britain,</hi> or to any of His Ma<g ref="char:EOLhyphen"/>jeſties Subjects, upon any part of the Coaſt belonging to <hi>Algiers,</hi> ſhall be made or be<g ref="char:EOLhyphen"/>come Prize, and that neither the Goods thereof ſhall be Seized, nor the Men made Slaves; but that all the Subjects of <hi>Algiers</hi> ſhall do their beſt endeavours to ſave the ſaid Men and their Goods.</p>
+            </div>
+            <div n="7" type="article">
+               <pb n="9" facs="tcp:48522:5"/>
+               <head>VII.</head>
+               <p>That no Ship, nor any other Veſſel of <hi>Al<g ref="char:EOLhyphen"/>giers</hi> ſhall have permiſſion to be delivered up, or go to <hi>Sally,</hi> or any other place in Enmity with the ſaid King of <hi>Great Britain,</hi> to be made uſe of as Corſairs or Sea Rovers againſt His ſaid Majeſties Subjects.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>That none of the Ships or other ſmaller Veſſels of <hi>Algiers</hi> ſhall remain Cruſing near or in ſight of His Majeſties City and Gariſon of <hi>Tangier,</hi> or of any other His Majeſties Roads, Havens or Ports, Towns and Places, nor any ways diſturb the Peace and Com<g ref="char:EOLhyphen"/>merce of the ſame.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>That if any Ship or Veſſel of <hi>Tunis, Tripoli,</hi> or <hi>Sally,</hi> or of any other Place, bring any Ships, Veſſels, Men or Goods belonging to any of His ſaid Majeſties Subjects, to <hi>Algiers,</hi>
+                  <pb n="10" facs="tcp:48522:6"/>or to any Port or Place in that Kingdom, the Governours there ſhall not permit them to be ſold within the Territories of <hi>Algiers.</hi>
+               </p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>That if any of the Ships of War of the ſaid King of <hi>Great Britain</hi> do come to <hi>Algiers,</hi> or to any other Port or Place of that King<g ref="char:EOLhyphen"/>dom with any Prize, they may freely Sell it, or otherwiſe to diſpoſe of it at their own pleaſure, without being moleſted by any: And that His Majeſties ſaid Ships of War ſhall not be obliged to pay Cuſtoms in any ſort; and that if they ſhall want Provi<g ref="char:EOLhyphen"/>ſions, Victuals, or any other things, they may freely Buy them at the Rates in the Market.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>That when any of His ſaid Majeſties Ships of War ſhall appear before <hi>Algiers,</hi> upon no<g ref="char:EOLhyphen"/>tice thereof given by the <hi>Engliſh</hi> Conſul, or by the Commander of the ſaid Ships to the Chief Governours of <hi>Algiers,</hi> Publick Procla<g ref="char:EOLhyphen"/>mation
+<pb n="11" facs="tcp:48522:6"/>ſhall be immediately made to Secure the Chriſtian Captives; and if after that, any Chriſtians whatſoever make their eſcape on Board any of the ſaid Ships of War, they ſhall not be required back again, nor ſhall the ſaid Conſul or Commander, or any other His Majeſties Subjects be obliged to pay any thing for the ſaid Chriſtians.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>That from and after the time that the Ra<g ref="char:EOLhyphen"/>tification of this Treaty by the King of <hi>Great Britain,</hi> ſhall be delivered to the Chief Go<g ref="char:EOLhyphen"/>vernours of <hi>Algiers,</hi> no Subjects of His ſaid Majeſty ſhall be Bought or Sold, or made Slaves in any part of the Kingdom of <hi>Algiers,</hi> upon any pretence whatſoever. And the ſaid King of <hi>Great Britain</hi> ſhall not be obliged by vertue of this Treaty of Peace to Redeem any of His Subjects now in Slavery, or who may be made Slaves before the ſaid Ratifica<g ref="char:EOLhyphen"/>tion; But it ſhall depend abſolutely upon His Majeſty, or the Friends and Relations of the ſaid Perſons in Slavery, without any limi<g ref="char:EOLhyphen"/>tation or reſtriction of time, to Redeem ſuch,
+<pb n="12" facs="tcp:48522:7"/>and ſo many of them from time to time, as ſhall be thought fit, agreeing of as reaſona<g ref="char:EOLhyphen"/>ble a Price as may be, with their Patrons or Maſters for their Redemption, without ob<g ref="char:EOLhyphen"/>liging the ſaid Patrons or Maſters againſt their wills to ſet any at Liberty, whether they be Slaves belonging to the Beylicque or Gally, or ſuch as belong to the Baſhaw, Dey, Governour, Aga, or any other perſons whatſoever. And all Slaves being His Ma<g ref="char:EOLhyphen"/>jeſties Subjects, ſhall, when they are Re<g ref="char:EOLhyphen"/>deemed, enjoy the advantage and benefit of abatements of the Duty due to the Royal Houſe, and of the other Charges, by paying ſuch reaſonable Sums as any Slaves of other Nations uſually pay when they are Re<g ref="char:EOLhyphen"/>deemed.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>That if any Subject of the ſaid King of <hi>Great Britain</hi> happen to die in <hi>Algiers,</hi> or in any part of its Territories, his Goods or Moneys ſhall not be Seized by the Governours, Judg<g ref="char:EOLhyphen"/>es, or other Offices of <hi>Algiers</hi> (who ſhall like<g ref="char:EOLhyphen"/>wiſe make no enquiry after the ſame) but the ſaid Goods or Moneys ſhall be poſſeſſed or
+<pb n="13" facs="tcp:48522:7"/>received by ſuch perſon or perſons whom the Deceaſed ſhall by his laſt Will have made his Heir or Heirs, in caſe they be upon the place where the Teſtator deceaſed. But if the Heirs be not there, then the Executors of the ſaid Will, lawfully Conſtituted by the De<g ref="char:EOLhyphen"/>ceaſed, ſhall after having made an Inventory of all the Goods and Moneys left, take them into their Cuſtody without any hindrance, and ſhall take care the ſame be remitted by ſome ſafe way, to the true and lawful Heirs; and in caſe any of His ſaid Majeſties Subjects happen to die not having made any Will, the <hi>Engliſh</hi> Conſul ſhall poſſeſs himſelf of his Goods and Moneys upon Inventory, for the uſe of the Kindred, and Heirs of the Deceaſed.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>That no Merchants being His Majeſties Subjects, and reſiding in, or Trading to the City and Kingdom of <hi>Algiers,</hi> ſhall be obliged to buy any Merchandizes againſt their Wills; but it ſhall be free for them to buy ſuch Commodities as they ſhall think fit, and no Captain or Commander of any Ship or Veſ<g ref="char:EOLhyphen"/>ſel
+<pb n="14" facs="tcp:48522:8"/>belonging to His ſaid Majeſties Subjects, ſhall be obliged againſt his Will, to Lade any Goods to carry them, or make a Voyage to any Place he ſhall not have a mind to go to: And neither the <hi>Engliſh</hi> Conſul, nor any other Subject of the ſaid King, ſhall be bound to pay the Debts of any other of His Maje<g ref="char:EOLhyphen"/>ſties Subjects, except that he or they become Sureties for the ſame by a publick act.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>That the Subjects of His ſaid Majeſty in <hi>Algiers,</hi> or its Territories, in matter of Con<g ref="char:EOLhyphen"/>troverſie, ſhall be liable to no other Juriſdi<g ref="char:EOLhyphen"/>ction but that of the Dey, or Duan, except they happen to be at difference between themſelves, in which caſe they ſhall be lia<g ref="char:EOLhyphen"/>ble to no other Determination but that of the Conſul onely.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>That in caſe any Subject of His ſaid Ma<g ref="char:EOLhyphen"/>jeſty being in any part of the Kingdom of Algiers happen to Strike, Wound, or Kill a <hi>Turk</hi>
+                  <pb n="15" facs="tcp:48522:8"/>or a <hi>Moor,</hi> if he be taken, he is to be puniſhed in the ſame manner, and with no greater ſeve<g ref="char:EOLhyphen"/>rity then a <hi>Turk</hi> ought to be, being guilty of the ſame Offence; but if he eſcape, neither the ſaid <hi>Engliſh</hi> Conſul, nor any other of His ſaid Majeſties Subjects, ſhall be in any ſort queſtioned and troubled therefore.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>That the <hi>Engliſh</hi> Conſul now, or at any time hereafter living in <hi>Algiers,</hi> ſhall be there at all times with entire Freedom and Safety of his Perſon and Eſtate, and ſhall be permitted to chooſe his own Druggerman and Broker, and freely to go on Board any Ships in the Road, as often and when he pleaſes, and to have the liberty of the Coun<g ref="char:EOLhyphen"/>trey; And that he ſhall be allowed a Place to Pray in, and that no man ſhall do him any Injury in word or deed.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>That not onely during the continuance of this Peace and Friendſhip, but likewiſe if
+<pb n="16" facs="tcp:48522:9"/>any Breach or War happen to be hereafter between the ſaid King of <hi>Great Britain</hi> and the Kingdom of <hi>Algiers,</hi> the ſaid <hi>Engliſh</hi> Con<g ref="char:EOLhyphen"/>ſul, and all other His ſaid Majeſties Subjects Inhabiting in the Kingdom of <hi>Algiers,</hi> ſhall always, and at all times, both of Peace and War, have full and abſolute Liberty to de<g ref="char:EOLhyphen"/>part and go to their own, or any other Coun<g ref="char:EOLhyphen"/>trey, upon any Ship or Veſſel of what Na<g ref="char:EOLhyphen"/>tion ſoever they ſhall think fit, and to carry with them all their Eſtates, Goods, Fami<g ref="char:EOLhyphen"/>lies and Servants, without any interruption or hindrance.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX.</head>
+               <p>That no Subject of His ſaid Majeſty, being a Paſſenger, and coming or going with his Baggage, from or to any Port, ſhall be any way moleſted or meddled with, although he be on Board any Ship or Veſſel in Enmity with <hi>Algiers;</hi> And in like manner no <hi>Alge<g ref="char:EOLhyphen"/>rine</hi> Paſſenger being on Board any Ship or Veſſel in Enmity with the ſaid King of <hi>Great Britain,</hi> ſhall be any way moleſted, whether in his Perſon, or in his Goods which he may have Laden on Board the ſaid Ship or Veſſel.</p>
+            </div>
+            <div n="20" type="article">
+               <pb n="17" facs="tcp:48522:9"/>
+               <head>XX.</head>
+               <p>That at all times when any Ship of War of the King of <hi>Great Britains,</hi> carrying His ſaid Majeſties Flag at the Main-Top-Maſt-head, ſhall appear before <hi>Algiers,</hi> and come to an Anchor in the Road, That immediately af<g ref="char:EOLhyphen"/>ter notice thereof given by His ſaid Maje<g ref="char:EOLhyphen"/>ſties Conſul, or Officer, from the Ship unto the Dey and Government of <hi>Algiers,</hi> they ſhall in Honour to His Majeſty, cauſe a Sa<g ref="char:EOLhyphen"/>lute of One and twenty Cannon to be Shot off from the Caſtles and Forts of the City, and that the ſaid Ship ſhall return an An<g ref="char:EOLhyphen"/>ſwer by Shooting off the ſame Number of Cannon.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI.</head>
+               <p>That preſently after the Signing and Seal<g ref="char:EOLhyphen"/>ing of theſe Articles by the Baſhaw, Dey, Aga, and Governours of <hi>Algiers,</hi> all Injuries and Damages ſuſtained on either part, ſhall be quite taken away, and forgotten, and this Peace ſhall be in full force and vertue, and continue for ever. And for all Depredations
+<pb n="18" facs="tcp:48522:10"/>and Damages that ſhall be afterwards com<g ref="char:EOLhyphen"/>mitted or done by either Side, before notice can be given of this Peace, full Satisfaction ſhall immediately be made, and whatſoever remains in kind, ſhall be inſtantly reſtored.</p>
+            </div>
+            <div n="22" type="article">
+               <head>XXII.</head>
+               <p>That in caſe it ſhall happen hereafter that any thing is done or committed contrary to this Treaty, whether by the Subjects of the one or the other Party, the Treaty notwith<g ref="char:EOLhyphen"/>ſtanding ſhall ſubſiſt in full force, and ſuch Contraventions ſhall not occaſion the Breach of this Peace, Friendſhip, and good Corre<g ref="char:EOLhyphen"/>ſpondence, but the Party Injured ſhall ami<g ref="char:EOLhyphen"/>cably demand immediate Satisfaction for the ſaid Contraventions before it be lawful to break the Peace; and if the Fault was committed by any Private Subjects of either Party, they alone ſhall be Puniſhed as Break<g ref="char:EOLhyphen"/>ers of the Peace, and Diſturbers of the Pub<g ref="char:EOLhyphen"/>lick Quiet. And Our Faith ſhall be Our Faith, and Our Word Our Word.</p>
+               <pb n="19" facs="tcp:48522:10"/>
+               <p>
+                  <hi>Confirmed and Sealed in the preſence of Almighty God, the Tenth day of</hi> April, <hi>in the Year of our Lord</hi> Jeſus Chriſt, <hi>One thouſand ſix hundred and eighty two: And in the Year of the</hi> Hegira, <hi>One thouſand ninety three, and the Eleventh day of the Moon</hi> Abril.</p>
+               <closer>
+                  <signed>(<hi>L. S.</hi>) (<hi>L. S.</hi>) (<hi>L. S.</hi>)</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
